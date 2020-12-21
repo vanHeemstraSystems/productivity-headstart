@@ -27,6 +27,8 @@ See also Bring! at ...
 
 ## [IN] Industriousness
 
+See also [README.md](./in/README.md)
+
 See also Bring! at ...
 
 ## [SP] Sprint Start
