@@ -37,6 +37,8 @@ See also Bring! at ...
 
 ## [DS] Daily Standup
 
+See also [README.md](./ds/README.md)
+
 See also Bring! at ...
 
 ## [EN] Enthusiasm
