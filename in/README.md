@@ -29,6 +29,4 @@ Activities:
 
 ## [AMBER] Refine Stories
 
-## SCRUM: Daily Standup
-
 ## [AMBER] Process Tasks
