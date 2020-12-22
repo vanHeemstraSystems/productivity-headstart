@@ -81,6 +81,8 @@ See also Bring! at ...
 
 ## [COOP] Cooperation
 
+See also [README.md](./coop/README.md)
+
 See also Bring! at ...
 
 ## [SECO] Self-Control
