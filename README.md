@@ -91,6 +91,8 @@ See also Bring! at ...
 
 ## [AL] Alertness
 
+See also [README.md](./al/README.md)
+
 See also Bring! at ...
 
 ## [INI] Initiative
