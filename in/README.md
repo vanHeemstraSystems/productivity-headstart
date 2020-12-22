@@ -7,6 +7,13 @@ Password: -
 
 ## [GREEN] Greet Colleagues
 
+This event is covered as: https://calendar.google.com/calendar/u/0/r/eventedit/MzhtN2NhZGNiYXY2MTQyNGtya3B2N3NidWpfMjAyMDEyMjNUMDgwMDAwWiAzYml2NWZ0dGJmcjl1Y3ZrbWw4Njdra21iZ0Bn?hl=en&pli=1
+
+Description: Greet Colleagues
+
+Activities:
+- Greet Colleagues
+
 ## [GREEN] Get a Refreshment
 
 ## [RED] Categorize Incoming Email
