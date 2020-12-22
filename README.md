@@ -31,7 +31,9 @@ See also [README.md](./in/README.md)
 
 See also Bring! at ...
 
-## [SP] Sprint Start
+## [SP] Sprint Planning
+
+See also [README.md](./sp/README.md)
 
 See also Bring! at ...
 
