@@ -105,6 +105,8 @@ See also Bring! at ...
 
 ## [COND] Condition
 
+See also [README.md](./cond/README.md)
+
 See also Bring! at ...
 
 ## [SK] Skill
