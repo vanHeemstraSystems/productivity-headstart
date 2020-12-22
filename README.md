@@ -61,6 +61,8 @@ See also Bring! at ...
 
 ## [FR] Friendship
 
+See also [README.md](./fr/README.md)
+
 See also Bring! at ...
 
 ## [I/A] Infra/Arch Design
