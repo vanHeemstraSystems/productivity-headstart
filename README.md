@@ -21,7 +21,9 @@ See also Bring! at ...
 
 See also Bring! at ...
 
-## [RV] Review
+## [SR] Sprint Review
+
+See also [README.md](./sr/README.md)
 
 See also Bring! at ...
 
