@@ -6,3 +6,11 @@ Account: wvanheemstra@googlemail.com
 
 Password: -
 
+## [GREEN] Have Lunch
+
+This event is covered as: https://calendar.google.com/calendar/u/0/r/eventedit/Nm1wZGxrYzA0cjIzcGZtaXN1bWNqcGVpaG5fMjAyMDEyMjJUMTEwMDAwWiBkODY0Y211dG5qOXB2aGU2dXF0cTRsZW8zNEBn?hl=en&pli=1
+
+Description: Have Lunch
+
+Activities:
+- Have Lunch
