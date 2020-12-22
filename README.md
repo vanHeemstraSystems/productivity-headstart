@@ -41,6 +41,8 @@ See also Bring! at ...
 
 ## [EN] Enthusiasm
 
+See also [README.md](./en/README.md)
+
 See also Bring! at ...
 
 ## [RF] Refinement
