@@ -1,5 +1,10 @@
 # [IN] Industriousness
 
+This event is covered in a dedicated Google Calendar: 
+
+Account: wvanheemstra@googlemail.com
+Password: -
+
 ## [GREEN] Greet Colleagues
 
 ## [GREEN] Get a Refreshment
