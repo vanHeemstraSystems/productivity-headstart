@@ -103,6 +103,8 @@ See also Bring! at ...
 
 ## [INT] Intentness
 
+See also [README.md](./int/README.md)
+
 See also Bring! at ...
 
 ## [COND] Condition
