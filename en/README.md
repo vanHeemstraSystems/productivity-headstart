@@ -1,3 +1,9 @@
 # [EN] Enthusiasm
 
-https://calendar.google.com/calendar/embed?src=tqdbhc69ihm0ldtra8ajhut9hs%40group.calendar.google.com&ctz=Europe%2FAmsterdam
+This event is covered in a dedicated Google Calendar "Enthusiasm": https://calendar.google.com/calendar/embed?src=tqdbhc69ihm0ldtra8ajhut9hs%40group.calendar.google.com&ctz=Europe%2FAmsterdam
+
+Account: wvanheemstra@googlemail.com
+
+Password: -
+
+## [] xx
