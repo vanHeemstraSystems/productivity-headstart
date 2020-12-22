@@ -85,6 +85,8 @@ See also Bring! at ...
 
 ## [SECO] Self-Control
 
+See also [README.md](./seco/README.md)
+
 See also Bring! at ...
 
 ## [AL] Alertness
