@@ -67,7 +67,9 @@ See also Bring! at ...
 
 See also Bring! at ...
 
-## [RT] Retrospective
+## [RS] Retrospective
+
+See also [README.md](./rs/README.md)
 
 See also Bring! at ...
 
