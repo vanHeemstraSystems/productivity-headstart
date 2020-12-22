@@ -97,6 +97,8 @@ See also Bring! at ...
 
 ## [INI] Initiative
 
+See also [README.md](./ini/README.md)
+
 See also Bring! at ...
 
 ## [INT] Intentness
