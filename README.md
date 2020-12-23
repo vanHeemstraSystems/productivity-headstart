@@ -7,9 +7,15 @@ See also "Productivity" DAKBoard at https://www.dakboard.com/screen/uuid/5fae837
 
 ## [BF] Breakfast
 
+See also [README.md](./bf/README.md)
+
+See also Bring! at ...
+
 ## [CO] Commute
 
-### Comute Up
+See also [README.md](./co/README.md)
+
+### Commute Up
 
 See also Bring! at https://web.getbring.com/app/lists/2
 
@@ -18,6 +24,8 @@ See also Bring! at https://web.getbring.com/app/lists/2
 See also Bring! at ...
 
 ## [PSR] Prepare Sprint Review
+
+See also [README.md](./psr/README.md)
 
 See also Bring! at ...
 
