@@ -57,7 +57,7 @@ See also Bring! at ...
 
 See also [README.md](./en/README.md)
 
-See also Bring! at ...
+See also Bring! at https://web.getbring.com/app/lists/1
 
 ## [RF] Refinement
 
