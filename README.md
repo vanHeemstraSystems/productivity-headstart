@@ -125,9 +125,13 @@ See also Bring! at ...
 
 ## [SK] Skill
 
+See also [README.md](./sk/README.md)
+
 See also Bring! at ...
 
 ## [TESP] Team Spirit
+
+See also [README.md](./tesp/README.md)
 
 See also Bring! at ...
 
