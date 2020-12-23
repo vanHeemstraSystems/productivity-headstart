@@ -59,6 +59,8 @@ See also Bring! at ...
 
 ## [LU] Lunch
 
+See also [README.md](./lu/README.md)
+
 See also Bring! at ...
 
 ## [FR] Friendship
@@ -68,6 +70,8 @@ See also [README.md](./fr/README.md)
 See also Bring! at ...
 
 ## [I/A] Infra/Arch Design
+
+See also [README.md](./ia/README.md)
 
 See also Bring! at ...
 
