@@ -83,6 +83,8 @@ See also Bring! at ...
 
 ## [LO] Loyalty
 
+See also [README.md](./lo/README.md)
+
 See also Bring! at ...
 
 ## [COOP] Cooperation
