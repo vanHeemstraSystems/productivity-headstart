@@ -11,6 +11,12 @@ See also [README.md](./bf/README.md)
 
 See also Bring! at ...
 
+## [FT] Face Treatment
+
+See also [README.md](./ft/README.md)
+
+See also Bring! at ...
+
 ## [CO] Commute
 
 See also [README.md](./co/README.md)
