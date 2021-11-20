@@ -2,9 +2,13 @@ productivity-headstart
 # Productivity - Headstart
 
 ![Decision_Tree_Doing_Things](https://user-images.githubusercontent.com/12828104/142730541-977dd6c1-ef34-4494-8d8f-ed930a6d573a.PNG)
-Productivity Flowchart & Spider Diagram
+Productivity Priority Flowchart & Spider Diagram
 
-![Productivity - Two Weeks View](Productivity.png)
+
+Productivity Priority Map
+
+![Productivity_Outlook_Calendar_Workweek_View](https://user-images.githubusercontent.com/12828104/142730674-eef54a8f-ffc9-405b-8016-75a564c6450c.PNG)
+Productivity Workweek View
 
 See also "Productivity" DAKBoard at https://www.dakboard.com/screen/uuid/5fae8376-113569-0cf9-973b98129210
 
