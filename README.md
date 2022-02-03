@@ -8,6 +8,7 @@ Productivity Priority Flowchart & Spider Diagram
 Productivity Priority Map
 
 ![Selection_Goal-Setting_Planning](https://user-images.githubusercontent.com/12828104/152303290-efa2f0f6-4346-4633-8b07-c57fd0391e35.png)
+
 Selection - Goal-Setting - Planning
 
 ![Productivity_Outlook_Calendar_Workweek_View](https://user-images.githubusercontent.com/12828104/142730674-eef54a8f-ffc9-405b-8016-75a564c6450c.PNG)
