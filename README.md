@@ -11,7 +11,7 @@ Productivity Priority Map
 
 Selection - Goal-Setting - Planning, see also [Start Finishing](https://www.amazon.nl/Gilkey-Start-Finishing-Idea-Done/dp/1683642635)
 
-![Productivity_Outlook_Calendar_Workweek_View](![Productivity](https://user-images.githubusercontent.com/12828104/159253370-3b67586b-8e1c-43f9-a1d5-cd8bd0413902.png))
+![Productivity_Outlook_Calendar_Workweek_View](https://user-images.githubusercontent.com/12828104/159253370-3b67586b-8e1c-43f9-a1d5-cd8bd0413902.png)
 Productivity Workweek View
 
 See also "Productivity" DAKBoard at https://www.dakboard.com/screen/uuid/5fae8376-113569-0cf9-973b98129210
